@@ -12,8 +12,8 @@ Headers
 #### Heading 4
 
 Text
-** Bold Text **
-* italiced text *
+**Bold Text**
+*italiced text*
 > Blockquote
 
 Ordered List:
@@ -33,7 +33,8 @@ Horizontal rule:
 
 Link: [Google](https://www.google.com.ar)
 
-Image: ![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png)
+Image: 
+![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png)
 
 #### Extended Syntax
 
@@ -71,6 +72,7 @@ term
 
 Strikethrough:
 ~~The world is flat.~~
+
 ~~Pluton is a planet.~~
 
 Task List:
@@ -81,11 +83,5 @@ Task List:
 Emoji:
 That is so funny! :joy:
 
-Highlight:
-I need to highlight these ==very important words==.
 
-Subscript:
-H~2~O
 
-Superscript:
-X^2^
